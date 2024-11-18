@@ -1,8 +1,21 @@
+#Keywords
+
+# print()
+# class
+# None
+# break
+
+
+#Identifier
+
+#Vivek
+
+
 import keyword
 print(keyword.kwlist)
 
-age=25
-print("Age = ",age)
-
-a=10+34*3-1
-print(a)
+#['False', 'None', 'True', 'and', 'as', 'assert', 'async',
+# 'await', 'break', 'class', 'continue', 'def', 'del', 'elif',
+# 'else', 'except', 'finally', 'for', 'from', 'global', 'if',
+# 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass',
+# 'raise', 'return', 'try', 'while', 'with', 'yield']
